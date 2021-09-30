@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShikhaPandya
+- 👀 I already know C and C++
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking forward to help the comunity with this 
